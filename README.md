@@ -16,7 +16,7 @@
 ##
 ### 🎯 My side-game projects :
 <ul>
-  <li><a href="https://github.com/lucie-pl/MotionExp.">Roll A Dice Game</a> : a 2-player game with a rolling dice 🎲</li>
+  <li><a href="https://github.com/lucie-pl/MotionExp.](https://github.com/lucie-pl/RollADiceGame)">Roll A Dice Game</a> : a 2-player game with a rolling dice 🎲</li>
   <li><a href=https://github.com/lucie-pl/NumberGuessGame>Number Guess Game</a> : a one-player game whre you need to guess a number between 1 and 20, that saves your highest score </li>
 </ul>
 
