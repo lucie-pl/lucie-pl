@@ -6,11 +6,18 @@
 🌱 I’m currently working to improve my skills on Ruby on Rails, JavaScript, PostgreSQL and learning React.
 
 ##
-### My bootcamp projects :
-
+### ⚙️ My bootcamp projects :
 <ul>
   <li><a href="https://github.com/lucie-pl/MotionExp.">MotionExp.</a> : a mobile web app for moviegoers</li>
   <li><a href="https://github.com/Lorry-b/E-Car">E-Car</a> : a web application to rent electric cars</li>
+</ul>
+
+
+##
+### 🎯 My side-game projects :
+<ul>
+  <li><a href="https://github.com/lucie-pl/MotionExp.">Roll A Dice Game</a> : a 2-player game with a rolling dice 🎲</li>
+  <li><a href=https://github.com/lucie-pl/NumberGuessGame>Number Guess Game</a> : a one-player game whre you need to guess a number between 1 and 20, that saves your highest score </li>
 </ul>
 
 ##
