@@ -6,10 +6,17 @@
 🌱 I’m currently working to improve my skills on Ruby on Rails, JavaScript, PostgreSQL and learning React.
 
 ##
+### 🎯 My current project :
+<ul>
+  <li><a href="https://github.com/lucie-pl/portfolio">My portfolio</a> : well, it's my portfolio 👩‍💻</li>
+  <li><a href="https://github.com/lucie-pl/Cuisinator">Cuisinator</a> : a web app to gather and exchange cooking recipes with my friends 👩‍🍳🤖</li>
+</ul>
+
+##
 ### ⚙️ My bootcamp projects :
 <ul>
   <li><a href="https://github.com/lucie-pl/MotionExp.">MotionExp.</a> : a mobile web app for moviegoers</li>
-  <li><a href="https://github.com/Lorry-b/E-Car">E-Car</a> : a web application to rent electric cars</li>
+  <li><a href="https://github.com/Lorry-b/E-Car">E-Car</a> : a web app to rent electric cars</li>
 </ul>
 
 
@@ -17,11 +24,11 @@
 ### 🎯 My side-game projects :
 <ul>
   <li><a href="https://github.com/lucie-pl/RollADiceGame">Roll A Dice Game</a> : a 2-player game with a rolling dice 🎲</li>
-  <li><a href=https://github.com/lucie-pl/NumberGuessGame>Number Guess Game</a> : a one-player game whre you need to guess a number between 1 and 20, that saves your highest score </li>
+  <li><a href=https://github.com/lucie-pl/NumberGuessGame>Number Guess Game</a> : a one-player game where you need to guess a number between 1 and 20, that saves your highest score </li>
 </ul>
 
 ##
-### <h3 align="left">Languages and Tools I work with :</h3>
+### <h3 align="left">Languages and tools I work with :</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
