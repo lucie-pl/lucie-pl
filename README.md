@@ -4,11 +4,13 @@
 <br>I am now a <strong>Junior Full-Stack Web Developer</strong> with an appetence for backend.</p>
 
 🌱 I’m currently working to improve my skills on Ruby on Rails, JavaScript, PostgreSQL and learning React.
+<br><br>
+👩‍💻 You can check out <a href="https://lucie-pl.github.io">my portfolio here</a> !
 
 ##
 ### 🎯 My current projects :
 <ul>
-  <li><a href="https://github.com/lucie-pl/portfolio">My portfolio</a> : well, it's my portfolio 👩‍💻</li>
+  
   <li><a href="https://github.com/lucie-pl/Cuisinator">Cuisinator</a> : a web app to gather and exchange cooking recipes with my friends 👩‍🍳🤖</li>
 </ul>
 
