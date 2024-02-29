@@ -25,6 +25,7 @@
 ##
 ### 🎯 My side-game projects :
 <ul>
+  <li><a href="https://github.com/lucie-pl/react-tv-show-adviser">Motion-Series</a> : a TV show adviser using TMDB API, made with React ▶️</li>
   <li><a href="https://github.com/lucie-pl/RollADiceGame">Roll A Dice Game</a> : a 2-player game with a rolling dice 🎲</li>
   <li><a href=https://github.com/lucie-pl/NumberGuessGame>Number Guess Game</a> : a one-player game where you need to guess a number between 1 and 20, that saves your highest score </li>
 </ul>
