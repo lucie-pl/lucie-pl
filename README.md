@@ -1,7 +1,7 @@
 ## Hi, I'm Lucie 👋
 
 <p>I used to work in marketing and communication in the cinema industry.
-<br>I am now a <strong>Junior Full-Stack Web Developer</strong> with an appetence for backend.</p>
+<br>I am now a <strong>Junior Full-Stack Web Developer</strong>.</p>
 
 🌱 I’m currently working to improve my skills on Ruby on Rails, JavaScript, PostgreSQL and learning React.
 <br><br>
