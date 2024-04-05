@@ -1,11 +1,11 @@
 ## Hi, I'm Lucie 👋
 
 <p>I used to work in marketing and communication in the cinema industry.
-<br>I am now a <strong>Junior Full-Stack Web Developer</strong>.</p>
+<br>I am now a <strong>Junior Full-Stack Web Developer</strong> looking to work for a company.</p>
 
 🌱 I’m currently working to improve my skills on Ruby on Rails, JavaScript, PostgreSQL and learning React.
 <br><br>
-👩‍💻 You can check out <a href="https://lucie-pl.github.io">my portfolio here</a> !
+👩‍💻 You can check out [my portfolio here](https://lucie-pl.github.io) !
 
 ##
 ### 🎯 My current projects :
@@ -23,8 +23,9 @@
 
 
 ##
-### 🎯 My side-game projects :
+### 🎯 My mini-projects (learning while having fun):
 <ul>
+  <li><a href="https://github.com/lucie-pl/TODO-APP">Todo-list app</a> : a simple todo-list app, made with Rails API, React and Typescript ▶️</li>
   <li><a href="https://github.com/lucie-pl/react-tv-show-adviser">Motion-Series</a> : a TV show adviser using TMDB API, made with React ▶️</li>
   <li><a href="https://github.com/lucie-pl/RollADiceGame">Roll A Dice Game</a> : a 2-player game with a rolling dice 🎲</li>
   <li><a href=https://github.com/lucie-pl/NumberGuessGame>Number Guess Game</a> : a one-player game where you need to guess a number between 1 and 20, that saves your highest score </li>
@@ -34,11 +35,11 @@
 ### <h3 align="left">Languages and tools I work with :</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
   <a href="https://www.javascript.com/" target="_blanck" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
-    <a href="https://react.dev/" target="_blanck" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <a href="https://react.dev/" target="_blanck" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
