@@ -10,7 +10,7 @@
 ##
 ### 🎯 My current projects :
 <ul>
-  
+  <li><a href="https://github.com/lucie-pl/releaf-canopeum">Releaf</a> : a web app to monitor and track the development of tree nurseries. Following up on the hackathon organized by Bestlogic and Canopeum, I'm helping working on the front end part. </li>
   <li><a href="https://github.com/lucie-pl/Cuisinator">Cuisinator</a> : a web app to gather and exchange cooking recipes with my friends 👩‍🍳🤖</li>
 </ul>
 
